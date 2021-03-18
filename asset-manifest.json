@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Megapovelitel/todos-lol/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Megapovelitel/todos-lol/static/js/main.ec40d97a.chunk.js",
+    "main.js.map": "/Megapovelitel/todos-lol/static/js/main.ec40d97a.chunk.js.map",
+    "runtime-main.js": "/Megapovelitel/todos-lol/static/js/runtime-main.5584c01b.js",
+    "runtime-main.js.map": "/Megapovelitel/todos-lol/static/js/runtime-main.5584c01b.js.map",
+    "static/js/2.db4cdfa2.chunk.js": "/Megapovelitel/todos-lol/static/js/2.db4cdfa2.chunk.js",
+    "static/js/2.db4cdfa2.chunk.js.map": "/Megapovelitel/todos-lol/static/js/2.db4cdfa2.chunk.js.map",
+    "static/js/3.b6301dde.chunk.js": "/Megapovelitel/todos-lol/static/js/3.b6301dde.chunk.js",
+    "static/js/3.b6301dde.chunk.js.map": "/Megapovelitel/todos-lol/static/js/3.b6301dde.chunk.js.map",
+    "index.html": "/Megapovelitel/todos-lol/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Megapovelitel/todos-lol/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.db4cdfa2.chunk.js.LICENSE.txt": "/Megapovelitel/todos-lol/static/js/2.db4cdfa2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5584c01b.js",
+    "static/js/2.db4cdfa2.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ec40d97a.chunk.js"
+  ]
+}
