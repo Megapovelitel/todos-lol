@@ -13,7 +13,7 @@ function App() {
 
   return (
     <div className="container">
-      <div>
+      <div className="inner-wrapper">
         TODO APP
         <Input value={value} dispatch={dispatch} />
         <TodoList todos={todos} dispatch={dispatch} />

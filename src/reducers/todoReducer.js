@@ -2,7 +2,10 @@ const todoReducer = (state, action) => {
   switch (action.type) {
     case "add-todo":
       return {
-        todos: [...state.todos, { title: state.value, completed: false }],
+        todos: [
+          ...state.todos,
+          { title: state.value, completed: false, editMode: false },
+        ],
         value: "",
       };
     case "delete-todo":
@@ -24,6 +27,22 @@ const todoReducer = (state, action) => {
       return {
         ...state,
         value: action.payload,
+      };
+    case "start-edit":
+      return {
+        ...state,
+        todos: state.todos.map((i, idx) =>
+          idx === action.payload ? { ...i, editMode: true } : i
+        ),
+      };
+    case "finish-edit":
+      return {
+        ...state,
+        todos: state.todos.map((i, idx) =>
+          idx === action.payload.idx
+            ? { ...i, editMode: false, title: action.payload.title }
+            : i
+        ),
       };
     default:
       console.log(
