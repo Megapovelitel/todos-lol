@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/todos-lol/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/todos-lol/static/js/main.ec40d97a.chunk.js",
-    "main.js.map": "/todos-lol/static/js/main.ec40d97a.chunk.js.map",
+    "main.js": "/todos-lol/static/js/main.d519896d.chunk.js",
+    "main.js.map": "/todos-lol/static/js/main.d519896d.chunk.js.map",
     "runtime-main.js": "/todos-lol/static/js/runtime-main.6e6fca4d.js",
     "runtime-main.js.map": "/todos-lol/static/js/runtime-main.6e6fca4d.js.map",
     "static/js/2.db4cdfa2.chunk.js": "/todos-lol/static/js/2.db4cdfa2.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6e6fca4d.js",
     "static/js/2.db4cdfa2.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.ec40d97a.chunk.js"
+    "static/js/main.d519896d.chunk.js"
   ]
 }
