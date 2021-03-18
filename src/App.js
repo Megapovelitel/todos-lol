@@ -37,7 +37,7 @@ function App() {
   });
   return (
     <div className="App">
-      TODOS
+      TODO APP
       <form
         onSubmit={(e) => {
           e.preventDefault();
